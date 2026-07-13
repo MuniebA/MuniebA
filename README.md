@@ -1,26 +1,26 @@
 <!-- TOP BANNER IMAGE PLACEHOLDER -->
-<!-- Image suggestion: Create or find a wide, sleek cyberpunk or AI-themed GIF/image (e.g., glowing neural network nodes, a dark mode coding setup, or a cool tech landscape). Name it "banner.gif" and upload it to your repo. -->
 <p align="center">
   <img src="banner.gif" width="100%" alt="AI and Tech Banner">
 </p>
 
+<!-- MAIN HEADER -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=false&width=900&height=100&lines=Hi+there,+I'm+Munieb!+👋" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=false&width=900&height=100&lines=Hi+there,+I+am+Munieb!" alt="Hi there, I am Munieb!" />
   </a>
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=300&size=22&pause=2000&color=B026FF&background=FFFFFF00&center=true&vCenter=true&width=900&height=60&lines=AI+%26+Software+Engineer;CS+Alumni+%40+Swinburne;Geospatial+AI+Developer;Jack+of+All+Trades" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=300&size=22&pause=2000&color=B026FF&background=FFFFFF00&center=true&vCenter=true&width=900&height=60&lines=AI+%26+Software+Engineer;CS+Alumni+%40+Swinburne;Geospatial+AI+Developer;Jack+of+All+Trades" alt="Roles" />
   </a>
 </h1>
 
----
 
-<p align="center">
-  <!-- GITHUB STATS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MuniebA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="80%">
-</p>
+<!-- GITHUB STATS -->
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuniebA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="GitHub Stats" width="80%">
+</p> -->
 
+<!-- ABOUT ME HEADER -->
 <h2>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Walter+Turncoat&size=30&pause=1000&color=00F0FF&repeat=false&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me" alt="Typing SVG" />
@@ -88,15 +88,17 @@
   </a>
 </h2>
 
-*   🌌 **SpectraLoRA** - Built a physics-aware Mixture of Experts LoRA library, handling schema upgrades to integrate PostgreSQL and PostGIS for geospatial data modeling.
-*   📚 **CoreMentor_Gemma_4** - Developed the backend relational architecture and API layer using FastAPI and PostgreSQL for a locally-hosted educational ecosystem.
-*   🌍 **AlphaEarth** - Engineered AI-driven geospatial tracking features and data pipelines. 
-*   🚛 **Logistics Oversight Dashboard** - Delivered an enterprise real-time dashboard utilizing Azure SQL and an Azure ML Random Forest model.
+*   🌌 **SpectraLoRA** 
+    A physics-aware fine-tuning library for geospatial foundation models. It uses real-time spectral indices to dynamically route satellite imagery to terrain-specific AI adapters, with ongoing architectural upgrades integrating PostgreSQL and PostGIS for a comprehensive spatial data catalog.
+*   🛒 **IOT-Automated-Convenience-Store** 
+    A Python-based IoT architecture that implements a fully automated, unmanned convenience store experience.
+*   🌿 **Out-Of-Distribution-Plant-Disease-Identification** 
+    A collaborative machine learning project utilizing Jupyter Notebooks to accurately classify and identify plant diseases across out-of-distribution datasets.
+*   ☁️ **Air-Quality-Tracker** 
+    An environmental analytics tool designed to track, process, and evaluate regional air quality metrics.
+*   🐦 **Bird-image-classifier** 
+    A computer vision classification model engineered in Jupyter Notebooks to identify specific bird species from raw image data.
+*   ⚡ **alpha-pulse** 
+    A specialized Python repository for processing and handling targeted data pipelines.
 
----
 
-<!-- FOOTER IMAGE PLACEHOLDER -->
-<!-- Image suggestion: Find a high-quality transparent PNG of a cool anime character (perhaps from Wind Breaker or a classic tech-wear anime character) sitting with a laptop, looking at the stats above. Name it "footer-char.png" and upload it to your repo. -->
-<p align="center">
-  <img src="footer-char.png" width="400" alt="Anime Character with Laptop" style="display:block; margin:auto;" />
-</p>
